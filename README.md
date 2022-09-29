@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhi-ssj5
 - 👀 I’m interested in iOS and Open-Source development.
 - 🌱 I’m currently working as a full-time iOS developer.
+- 😄 Pronouns King/Lord
 - 📫 How to reach me: https://www.linkedin.com/in/abhijeet-choudhary
 
 <!---
